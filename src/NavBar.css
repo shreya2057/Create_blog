@@ -1,0 +1,55 @@
+  nav{
+      height: 75px;
+  }
+  
+  .navbar{
+    display: block;
+    font-size: 50px;
+    height:max-content;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .brand{
+    display: inline;
+    font-size: 30px;
+    font-weight: bolder;
+    color: blueviolet;
+    float: left;
+  }
+  
+  .nav-menu{
+    font-size: 20px;
+    display: inline;
+    float: right;
+    font-weight: 700;
+    color: black;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  
+  .about{
+    display: inline-block;
+    padding-right: 45px;
+    color: darkblue;
+  }
+  
+  
+  .new-blog{
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    color: brown;
+  }
+
+.new-blog a {
+    color: brown;
+    padding: 5px;
+}
